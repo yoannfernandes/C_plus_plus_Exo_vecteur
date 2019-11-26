@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\yoann\Desktop\Ludus\C++\Exo\TP_22_11_2019\main.cpp(95,11): error C2374: 'Somme' : redéfinition ; initialisation multiple
+C:\Users\yoann\Desktop\Ludus\C++\Exo\TP_22_11_2019\main.cpp(88): message : voir la déclaration de 'Somme'
